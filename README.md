@@ -1,4 +1,4 @@
-# Plerion Asset Counter
+# Plerion Asset Counter 
 A tool which returns the total number of assets Plerion will monitor.
 
 ## How to run for an AWS account
